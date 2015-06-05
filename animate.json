@@ -1,0 +1,306 @@
+{
+"title"           : "Animate.epub",
+"cover"           : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/cover.jpg",
+"css"             : ["file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/styles/text.css", "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/styles/animate.css"],
+"publisher"       : "Getty Publications",
+"pages" : [{
+		"title"	  : "Animate.epub",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/titlepage.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "bounce",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/bounce.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "flash",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/flash.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "pulse",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/pulse.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "rubberBand",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/rubberBand.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "shake",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/shake.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "swing",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/swing.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "tada",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/tada.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "wobble",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/wobble.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "jello",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/jello.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "bounceIn",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/bounceIn.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "bounceInDown",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/bounceInDown.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "bounceInLeft",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/bounceInLeft.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "bounceInRight",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/bounceInRight.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "bounceInUp",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/bounceInUp.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "bounceOut",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/bounceOut.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "bounceOutDown",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/bounceOutDown.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "bounceOutLeft",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/bounceOutLeft.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "bounceOutRight",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/bounceOutRight.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "bounceOutUp",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/bounceOutUp.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "fadeIn",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/fadeIn.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "fadeInDown",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/fadeInDown.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "fadeInLeft",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/fadeInLeft.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "fadeInRight",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/fadeInRight.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "fadeInUp",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/fadeInUp.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "fadeOut",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/fadeOut.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "fadeOutDown",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/fadeOutDown.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "fadeOutLeft",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/fadeOutLeft.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "fadeOutRight",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/fadeOutRight.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "fadeOutUp",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/fadeOutUp.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "flipInX",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/flipInX.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "flipInY",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/flipInY.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "flipOutX",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/flipOutX.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "flipOutY",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/flipOutY.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "lightSpeedIn",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/lightSpeedIn.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "lightSpeedOut",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/lightSpeedOut.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "rotateIn",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/rotateIn.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "rotateInDownLeft",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/rotateInDownLeft.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "rotateInDownRight",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/rotateInDownRight.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "rotateInUpLeft",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/rotateInUpLeft.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "rotateInUpRight",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/rotateInUpRight.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "rotateOut",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/rotateOut.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "rotateOutDownLeft",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/rotateOutDownLeft.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "rotateOutDownRight",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/rotateOutDownRight.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "rotateOutUpLeft",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/rotateOutUpLeft.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "rotateOutUpRight",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/rotateOutUpRight.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "hinge",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/hinge.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "rollIn",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/rollIn.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "rollOut",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/rollOut.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "zoomIn",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/zoomIn.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "zoomInDown",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/zoomInDown.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "zoomInLeft",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/zoomInLeft.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "zoomInRight",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/zoomInRight.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "zoomInUp",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/zoomInUp.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "zoomOut",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/zoomOut.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "zoomOutDown",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/zoomOutDown.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "zoomOutLeft",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/zoomOutLeft.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "zoomOutRight",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/zoomOutRight.html",
+		"toc"     : true
+		},
+		{
+		"title"	  : "zoomOutUp",
+		"body"	  : "file:///Users/gregalbers/GitHub/EBOOKS/animate-epub/zoomOutUp.html",
+		"toc"     : true
+		}
+		]
+}
+
+
+
+
