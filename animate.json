@@ -4,41 +4,49 @@
 "css"             : ["file:///Users/galbers/GitHub/animate-epub/animate-epub/styles/text.css", "file:///Users/galbers/GitHub/animate-epub/animate-epub/styles/animate.css"],
 "pages" : [{
 		"title"	  : "Animate.epub",
+		"href" 	  : "titlepage.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/titlepage.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "bounce",
+		"href" 	  : "bounce.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/bounce.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "flash",
+		"href" 	  : "flash.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/flash.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "pulse",
+		"href" 	  : "pulse.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/pulse.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "rubberBand",
+		"href" 	  : "rubberBand.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/rubberBand.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "shake",
+		"href" 	  : "shake.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/shake.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "swing",
+		"href" 	  : "swing.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/swing.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "tada",
+		"href" 	  : "tada.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/tada.html",
 		"toc"     : true
 		},
@@ -49,261 +57,313 @@
 		},
 		{
 		"title"	  : "jello",
+		"href" 	  : "jello.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/jello.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "bounceIn",
+		"href" 	  : "bounceIn.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/bounceIn.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "bounceInDown",
+		"href" 	  : "bounceInDown.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/bounceInDown.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "bounceInLeft",
+		"href" 	  : "bounceInLeft.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/bounceInLeft.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "bounceInRight",
+		"href" 	  : "bounceInRight.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/bounceInRight.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "bounceInUp",
+		"href" 	  : "bounceInUp.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/bounceInUp.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "bounceOut",
+		"href" 	  : "bounceOut.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/bounceOut.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "bounceOutDown",
+		"href" 	  : "bounceOutDown.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/bounceOutDown.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "bounceOutLeft",
+		"href" 	  : "bounceOutLeft.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/bounceOutLeft.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "bounceOutRight",
+		"href" 	  : "bounceOutRight.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/bounceOutRight.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "bounceOutUp",
+		"href" 	  : "bounceOutUp.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/bounceOutUp.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "fadeIn",
+		"href" 	  : "fadeIn.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/fadeIn.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "fadeInDown",
+		"href" 	  : "fadeInDown.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/fadeInDown.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "fadeInLeft",
+		"href" 	  : "fadeInLeft.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/fadeInLeft.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "fadeInRight",
+		"href" 	  : "fadeInRight.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/fadeInRight.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "fadeInUp",
+		"href" 	  : "fadeInUp.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/fadeInUp.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "fadeOut",
+		"href" 	  : "fadeOut.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/fadeOut.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "fadeOutDown",
+		"href" 	  : "fadeOutDown.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/fadeOutDown.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "fadeOutLeft",
+		"href" 	  : "fadeOutLeft.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/fadeOutLeft.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "fadeOutRight",
+		"href" 	  : "fadeOutRight.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/fadeOutRight.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "fadeOutUp",
+		"href" 	  : "fadeOutUp.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/fadeOutUp.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "flip",
+		"href" 	  : "flip.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/flip.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "flipInX",
+		"href" 	  : "flipInX.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/flipInX.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "flipInY",
+		"href" 	  : "flipInY.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/flipInY.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "flipOutX",
+		"href" 	  : "flipOutX.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/flipOutX.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "flipOutY",
+		"href" 	  : "flipOutY.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/flipOutY.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "lightSpeedIn",
+		"href" 	  : "lightSpeedIn.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/lightSpeedIn.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "lightSpeedOut",
+		"href" 	  : "lightSpeedOut.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/lightSpeedOut.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "rotateIn",
+		"href" 	  : "rotateIn.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/rotateIn.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "rotateInDownLeft",
+		"href" 	  : "rotateInDownLeft.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/rotateInDownLeft.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "rotateInDownRight",
+		"href" 	  : "rotateInDownRight.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/rotateInDownRight.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "rotateInUpLeft",
+		"href" 	  : "rotateInUpLeft.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/rotateInUpLeft.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "rotateInUpRight",
+		"href" 	  : "rotateInUpRight.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/rotateInUpRight.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "rotateOut",
+		"href" 	  : "rotateOut.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/rotateOut.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "rotateOutDownLeft",
+		"href" 	  : "rotateOutDownLeft.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/rotateOutDownLeft.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "rotateOutDownRight",
+		"href" 	  : "rotateOutDownRight.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/rotateOutDownRight.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "rotateOutUpLeft",
+		"href" 	  : "rotateOutUpLeft.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/rotateOutUpLeft.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "rotateOutUpRight",
+		"href" 	  : "rotateOutUpRight.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/rotateOutUpRight.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "hinge",
+		"href" 	  : "hinge.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/hinge.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "rollIn",
+		"href" 	  : "rollIn.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/rollIn.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "rollOut",
+		"href" 	  : "rollOut.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/rollOut.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "zoomIn",
+		"href" 	  : "zoomIn.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/zoomIn.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "zoomInDown",
+		"href" 	  : "zoomInDown.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/zoomInDown.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "zoomInLeft",
+		"href" 	  : "zoomInLeft.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/zoomInLeft.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "zoomInRight",
+		"href" 	  : "zoomInRight.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/zoomInRight.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "zoomInUp",
+		"href" 	  : "zoomInUp.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/zoomInUp.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "zoomOut",
+		"href" 	  : "zoomOut.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/zoomOut.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "zoomOutDown",
+		"href" 	  : "zoomOutDown.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/zoomOutDown.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "zoomOutLeft",
+		"href" 	  : "zoomOutLeft.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/zoomOutLeft.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "zoomOutRight",
+		"href" 	  : "zoomOutRight.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/zoomOutRight.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "zoomOutUp",
+		"href" 	  : "zoomOutUp.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/zoomOutUp.html",
 		"toc"     : true
 		},
 		{
 		"title"	  : "Using the Animate.css Code",
+		"href" 	  : "code.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/code.html",
 		"toc"     : true
 		}
