@@ -52,6 +52,7 @@
 		},
 		{
 		"title"	  : "wobble",
+		"href" 	  : "wobble.html",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/wobble.html",
 		"toc"     : true
 		},
