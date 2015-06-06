@@ -153,6 +153,11 @@
 		"toc"     : true
 		},
 		{
+		"title"	  : "flip",
+		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/flip.html",
+		"toc"     : true
+		},
+		{
 		"title"	  : "flipInX",
 		"body"	  : "file:///Users/galbers/GitHub/animate-epub/animate-epub/flipInX.html",
 		"toc"     : true
